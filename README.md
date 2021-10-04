@@ -1,7 +1,8 @@
 # Developers Recruitment Test
 
 - Please use real Github accounts, we want to check your contributions history. Since we use, create and contribute to open source.
-- We are not answering any questions about this test. Everyone work with the same set of information, to let us fairly judge your work.
+- Everyone work with the same set of information, to let us fairly judge your work.
+- We are answering questions only when it's strictic necessary.
 - The test is designed in a way, that can confuse you or seems weird, because we want to test you in a way worse environment than you will work on a daily basis. It's also not a representation of the tech stack we are using in real projects.
 
 ## Before you start
@@ -14,7 +15,7 @@
 
 ### Task 1
 
-From the following array reverse it but keep the special characters in the same position.
+From the following array, reverse it, but keep the special characters in the same position.
 
 ```
 [n,2,&,a,l,9,$,q,47,i,a,j,b,z,%,8]

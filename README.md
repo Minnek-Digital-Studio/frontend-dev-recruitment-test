@@ -1,4 +1,4 @@
-# Front End Developers Recruitment Test
+# Recruitment Test for Front End Position
 
 - Please use real Github accounts, we want to check your contributions history. Since we use, create and contribute to open source.
 - Everyone work with the same set of information, to let us fairly judge your work.
